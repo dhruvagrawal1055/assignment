@@ -1,0 +1,13 @@
+Assignment: Background Color Changer
+
+In this assignment, you will create a simple web app that changes the background color of the page when the user clicks a button. The app should display a button that, when clicked, generates a random color and updates the background to that color.
+To complete this assignment, you will need to use the useEffect hook to update the state of your component whenever the user clicks the button.
+Requirements:
+
+1. Display a "Change Color" button on the screen.
+2. When the user clicks the "Change Color" button, generate a random color (e.g. "#7F00FF") and set it as the background color of the page.
+3. Use the useEffect hook to update the background color whenever the user clicks the "Change Color" button.
+4. Style the app with CSS to make it look presentable and easy to use.
+
+Submission
+When you have completed this assignment, please submit a link to your code repository (e.g. on GitHub).
